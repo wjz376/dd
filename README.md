@@ -60,7 +60,7 @@ sudo docker pull portainer/portainer
 ```
 #下载文件，解压到桌面，然后上传文件到根目录
 
-#下载链接：https://afw.lanzous.com/iM5CZl722cj
+#下载链接：https://afw.lanzoui.com/iM5CZl722cj
 ```
 docker run -d \
    -p 9000:9000 \
